@@ -1,6 +1,8 @@
 //jQueryの書き方
 $(document).ready(function(){
 
+
+
   $("#ex").hide().fadeIn(4000);
   $("#ex").html('<p>かきくけこ</p>');
   $("#ex").css("background-color","black");
