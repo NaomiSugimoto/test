@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+}
+
+.header{
+  width: 100px;
+  height: 20px;
+  background-color: #99CCFF;
+}
+
+footer{
+  width: 100px;
+  height: 20px;
+  background-color: #99CCFF;
+}
+
+.script{
+  width: 100px;
+  height: 20px;
+  background-color: #99CCFF;
+}
